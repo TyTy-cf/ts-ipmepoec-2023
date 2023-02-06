@@ -3,9 +3,10 @@
     "node_modules"
   ],
   "include": [
-    "./scripts/index.ts"
+    "./scripts/exo_hp.ts"
   ],
   "compilerOptions": {
+    "noImplicitAny": true,
     "sourceMap": true,
     "downlevelIteration": true,
     "experimentalDecorators": true,
