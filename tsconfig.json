@@ -3,7 +3,7 @@
     "node_modules"
   ],
   "include": [
-    "./scripts/exo_hp.ts"
+    "./scripts/cours_form.ts"
   ],
   "compilerOptions": {
     "noImplicitAny": true,
