@@ -2,14 +2,14 @@
   "name": "ts-ipme-2023",
   "version": "1.0.0",
   "description": "Projet de test IPME",
-  "main": "cours_form.js",
+  "main": "exo_steamish.js",
   "author": "Kévin Tourret",
   "license": "ISC",
   "type": "module",
   "scripts": {
     "build": "npx tsc",
-    "start": "node build/cours_form.js",
-    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q build/cours_form.js\""
+    "start": "node build/exo_steamish.js",
+    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q build/exo_steamish.js\""
   },
   "devDependencies": {
     "@types/node": "^18.11.18",

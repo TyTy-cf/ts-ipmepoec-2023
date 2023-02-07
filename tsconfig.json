@@ -3,7 +3,7 @@
     "node_modules"
   ],
   "include": [
-    "./scripts/cours_form.ts"
+    "./scripts/exo_steamish.ts"
   ],
   "compilerOptions": {
     "noImplicitAny": true,
